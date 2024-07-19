@@ -3,4 +3,5 @@ anthropic
 openai
 python-dotenv
 langchain-anthropic
-'crewai[tools]'
+crewai-tools
+firecrawl-py
